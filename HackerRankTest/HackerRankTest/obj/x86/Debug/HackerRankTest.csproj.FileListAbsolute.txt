@@ -1,0 +1,5 @@
+C:\Shared\Personal\Learning\201_WPF_MVVM_In_Depth_Self-paced_Course_Procedures\Hacker Rank Test\HackerRankTest\HackerRankTest\bin\Debug\HackerRankTest.exe
+C:\Shared\Personal\Learning\201_WPF_MVVM_In_Depth_Self-paced_Course_Procedures\Hacker Rank Test\HackerRankTest\HackerRankTest\bin\Debug\HackerRankTest.pdb
+C:\Shared\Personal\Learning\201_WPF_MVVM_In_Depth_Self-paced_Course_Procedures\Hacker Rank Test\HackerRankTest\HackerRankTest\obj\x86\Debug\HackerRankTest.exe
+C:\Shared\Personal\Learning\201_WPF_MVVM_In_Depth_Self-paced_Course_Procedures\Hacker Rank Test\HackerRankTest\HackerRankTest\obj\x86\Debug\HackerRankTest.pdb
+C:\Shared\Personal\Learning\201_WPF_MVVM_In_Depth_Self-paced_Course_Procedures\Hacker Rank Test\HackerRankTest\HackerRankTest\obj\x86\Debug\HackerRankTest.csprojResolveAssemblyReference.cache
